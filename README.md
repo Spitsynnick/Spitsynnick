@@ -46,6 +46,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title="SASS" width="40" height="40"/>&nbsp;
 
 ### My stat
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Spitsynnick&theme=moonlight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Spitsynnick&theme=moonlight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Spitsynnick&theme=moonlight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Spitsynnick&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Spitsynnick&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Spitsynnick&theme=nord_dark)
