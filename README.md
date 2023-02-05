@@ -1,31 +1,24 @@
 <div id="header" align="center">
-	<h1>Hi there, I'm Nikolai</h1>
-	<h3>Frontend Developer from Sevastopol</h3>
+  <h1>Hi there, I'm Nikolai</h1>
+  <h3>Frontend Developer from Sevastopol</h3>
 </div>
 
 <div id="socials" align="center">
-	<a href="linkedin-url">
-		<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+	<a href="http://vk.com/nickrus93">
+	  <img src="https://img.shields.io/badge/Vkontakte-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK"/>
 	</a>
-	<a href="twitter-url">
-		<img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+	<a href="https://telegram.me/spitsynnick">
+	  <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 	</a>
-	<a href="telegram-url">
-		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-	</a>
+	<a href="https://www.instagram.com/spitsyn_nick">
+	  <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+	</a>	
 </div>
 
-<!--
-**Spitsynnick/Spitsynnick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me
+- 🎓 I’m currently studying on courses [SkillFactory Frontend-developer](https://skillfactory.ru/)
+- 📄 I’m currently learning ReactJS
+- 💻 Watch my [Personal Portfolio Website](https://spitsynnick.github.io/Portfolio/)
+- 📱 Reach me by [email](mailto:Spitsyn1993@list.ru), [vk](vk.com/nickru93), [telegram][vk.com/nickru93](https://telegram.me/spitsynnick)
+- 🌍 I speak English
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
