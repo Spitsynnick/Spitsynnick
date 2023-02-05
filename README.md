@@ -19,6 +19,6 @@
 - 🎓 I’m currently studying on courses [SkillFactory Frontend-developer](https://skillfactory.ru/)
 - 📄 I’m currently learning ReactJS
 - 💻 Watch my [Personal Portfolio Website](https://spitsynnick.github.io/Portfolio/)
-- 📱 Reach me by [email](mailto:Spitsyn1993@list.ru), [vk](vk.com/nickru93), [telegram][vk.com/nickru93](https://telegram.me/spitsynnick)
+- 📱 Reach me by [email](mailto:Spitsyn1993@list.ru), [vk](vk.com/nickru93), [telegram](https://telegram.me/spitsynnick)
 - 🌍 I speak English
 
