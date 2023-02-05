@@ -34,8 +34,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title="SASS" width="40" height="40"/>&nbsp;
 
 ### My stat
-<div id="stat" align="center">
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?Spitsynnick=vn7n24fzkq&theme=github_dark"/>
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?Spitsynnick=vn7n24fzkq&theme=github_dark"/>
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?Spitsynnick=vn7n24fzkq&theme=github_dark"/>
-</div>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?Spitsynnick=vn7n24fzkq&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?Spitsynnick=vn7n24fzkq&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?Spitsynnick=vn7n24fzkq&theme=default&utcOffset=8)
