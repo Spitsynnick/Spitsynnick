@@ -1,4 +1,7 @@
-### Hi there 👋
+<div id="header" align="center">
+	<h1>Hi there, I'm Nikolai</h1>
+	<h3>Frontend Developer from Sevastopol</h3>
+</div>
 
 <!--
 **Spitsynnick/Spitsynnick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
