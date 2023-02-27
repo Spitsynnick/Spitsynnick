@@ -7,15 +7,15 @@
         <a href="https://spitsynnick.github.io/Portfolio/" target="_blank" title="Portfolio">
 	  <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=pcgamingwiki&logoColor=white" alt="Portfolio"/>
 	</a>
+	<a href="https://telegram.me/spitsynnick" target="_blank" title="Telegram">
+	  <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+	</a>
 	<a href="mailto:spitsyn1993@list.ru" target="_blank" title="Email">
 	  <img src="https://img.shields.io/badge/email-blue?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Mail.ru"/>
 	</a>
 	<a href="http://vk.com/nickrus93" target="_blank" title="VK">
-	  <img src="https://img.shields.io/badge/Vkontakte-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK"/>
-	</a>
-	<a href="https://telegram.me/spitsynnick" target="_blank" title="Telegram">
-	  <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-	</a>
+	  <img src="https://img.shields.io/badge/Vkontakte-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK"/>	</a>
+	
 	<a href="https://www.instagram.com/spitsyn_nick" target="_blank" title="Instagram">
 	  <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 	</a>
