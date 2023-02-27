@@ -31,7 +31,7 @@
 - 🎓 I’m currently studying on courses [SkillFactory Frontend-developer](https://skillfactory.ru/);
 - 📄 I’ve finished with learning React;
 - 💻 Watch my [Personal Portfolio Website](https://spitsynnick.github.io/Portfolio/);
-- 📱 Reach me by [email](mailto:Spitsyn1993@list.ru), [vk](vk.com/nickru93), [telegram](https://telegram.me/spitsynnick);
+- 📱 Reach me by [telegram](https://telegram.me/spitsynnick), [email](mailto:Spitsyn1993@list.ru),  [vk](vk.com/nickru93);
 - 🌍 I speak English (level: B2 - Upper intermediate).
 
 ### Languages and tools
