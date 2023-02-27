@@ -14,8 +14,8 @@
 	  <img src="https://img.shields.io/badge/email-blue?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Mail.ru"/>
 	</a>
 	<a href="http://vk.com/nickrus93" target="_blank" title="VK">
-	  <img src="https://img.shields.io/badge/Vkontakte-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK"/>	</a>
-	
+	  <img src="https://img.shields.io/badge/Vkontakte-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK"/>	
+	</a>	
 	<a href="https://www.instagram.com/spitsyn_nick" target="_blank" title="Instagram">
 	  <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 	</a>
